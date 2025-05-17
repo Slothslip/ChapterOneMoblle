@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="22" />
+6-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+7
+8    <uses-feature android:glEsVersion="0x00030000" />
+8-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-52
+8-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:17-49
+9    <uses-feature
+9-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-91
+10        android:name="android.hardware.vulkan.version"
+10-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-63
+11        android:required="false" />
+11-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:64-88
+12    <uses-feature
+12-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-88
+13        android:name="android.hardware.touchscreen"
+13-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-60
+14        android:required="false" />
+14-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:61-85
+15
+16    <application android:extractNativeLibs="true" >
+16-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-21:17
+16-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:16-48
+17        <meta-data
+17-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:5-69
+18            android:name="unity.splash-mode"
+18-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:16-48
+19            android:value="0" />
+19-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:49-66
+20        <meta-data
+20-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:5-74
+21            android:name="unity.splash-enable"
+21-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:16-50
+22            android:value="True" />
+22-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:51-71
+23        <meta-data
+23-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:5-78
+24            android:name="unity.launch-fullscreen"
+24-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-54
+25            android:value="True" />
+25-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:55-75
+26        <meta-data
+26-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-84
+27            android:name="unity.render-outside-safearea"
+27-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-60
+28            android:value="True" />
+28-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:61-81
+29        <meta-data
+29-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-81
+30            android:name="notch.config"
+30-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-43
+31            android:value="portrait|landscape" />
+31-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:44-78
+32        <meta-data
+32-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-84
+33            android:name="unity.auto-report-fully-drawn"
+33-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-60
+34            android:value="true" />
+34-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:61-81
+35
+36        <activity
+36-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-20:16
+37            android:name="com.unity3d.player.UnityPlayerActivity"
+37-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:15-68
+38            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+38-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:180-361
+39            android:exported="true"
+39-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:433-456
+40            android:hardwareAccelerated="false"
+40-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:397-432
+41            android:launchMode="singleTask"
+41-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:148-179
+42            android:resizeableActivity="false"
+42-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:362-396
+43            android:screenOrientation="fullUser"
+43-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:111-147
+44            android:theme="@style/UnityThemeSelector" >
+44-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:69-110
+45            <intent-filter>
+45-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:7-17:23
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:9-69
+46-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:19-66
+47
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:9-61
+48-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:17-58
+49            </intent-filter>
+50
+51            <meta-data
+51-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:7-82
+52                android:name="unityplayer.UnityActivity"
+52-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:18-58
+53                android:value="true" />
+53-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:59-79
+54            <meta-data
+54-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:7-70
+55                android:name="notch_support"
+55-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:18-46
+56                android:value="true" />
+56-->C:\Users\13252\Desktop\Unity info\ChapterOneMoblle\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:47-67
+57        </activity>
+58    </application>
+59
+60</manifest>
